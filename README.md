@@ -2,7 +2,7 @@
 <table>
     <tr>
         <th>Date</th>
-        <td>12/10/2023</td><td>13/10/2023</td><td>14/10/2023</td>
+        <td>13/10/2023</td><td>14/10/2023</td><td>15/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -14,13 +14,13 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.7 -  24.1 °C</td><td>21.2 -  30.7 °C</td><td>22.9 -  26.4 °C</td>
+        <td>21.3 -  30.4 °C</td><td>23.2 -  25.7 °C</td><td>22.3 -  27.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>13.7 kph</td><td>17.3 kph</td>
+        <td>14 kph</td><td>10.1 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
 
-Updated at 2023-10-12T16:22:18Z
+Updated at 2023-10-12T17:20:35Z
