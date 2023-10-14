@@ -14,13 +14,13 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.8 -  30.7 °C</td><td>23.1 -  29.5 °C</td><td>24.3 -  31.6 °C</td>
+        <td>22.8 -  30.5 °C</td><td>23.3 -  29.2 °C</td><td>23.9 -  31.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.9 kph</td><td>15.1 kph</td><td>12.6 kph</td>
+        <td>16.6 kph</td><td>17.3 kph</td><td>12.2 kph</td>
     </tr>
 </table>
 
 
-Updated at 2023-10-14T10:20:30Z
+Updated at 2023-10-14T11:17:48Z
